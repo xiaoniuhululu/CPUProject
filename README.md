@@ -4,7 +4,9 @@
 
 
 
-更多高质量内容,欢迎关注：
+更多高质量内容,首发于公众号「[小牛呼噜噜](https://www.xiaoniuhululu.com/images/zj/Snipaste_2022-11-16_23-13-49.png)」
+
+
 
 ![](https://github.com/xiaoniuhululu/CPUProject/blob/main/picture/weixin_gzh_xiaoniuhululu.png)
 
