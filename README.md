@@ -10,10 +10,6 @@
 
 
 
-![](https://github.com/xiaoniuhululu/CPUProject/blob/main/picture/weixin_gzh_xiaoniuhululu.png)
-
-
-
 ![](https://image-upload-xiaoniuhululu.oss-cn-shanghai.aliyuncs.com/imageZJ/weixin_gzh_xiaoniuhululu.png)
 
 
@@ -26,6 +22,7 @@
 2. [聊聊开关和CPU之间故事](https://mp.weixin.qq.com/s/hbnZcBsXd3FZUTKkkv1Ysg)
 3. [简易加法器的设计与实现](https://mp.weixin.qq.com/s/gs6deuzyD_DaMlWZH9EfJw)
 4. [减法器的设计与实现并用译码器显示16、10进制](https://mp.weixin.qq.com/s/pozgJcFBfg65PBnsLYLfmQ)
+4. [漫谈从RS触发器到D触发器的发展历程](https://mp.weixin.qq.com/s/32OOIS42-CUPA2Pa9c_Cig)
 
 
 
